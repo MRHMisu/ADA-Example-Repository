@@ -1,8 +1,12 @@
-# ADA-test-simple-JAVA-project-0
+# ADA-Example-Repository
+
+This is an example repository that helps to evaluate [ADA-generated](#[real-cool-heading](https://github.com/alexandar1000/ADA))
+coupling graph accuracy. We prepared this repository to validate the coupling graph accuracy manually in pen and paper.
+
+The following tree represents the organization of the repository.
+
 
 ```
-.
-├── README.md
 └── src
     ├── declaration
     │   ├── attribute_declaration
